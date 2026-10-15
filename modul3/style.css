@@ -84,8 +84,10 @@ footer {
     background-color: #162447;
     color: white;
     text-align: center;
-    padding: 25px;
+    padding: 9px;
     margin-top: 30px;
+	position:fixed;
+	bottom: 0;
 }
 
 /* Responsif */
